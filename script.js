@@ -35,7 +35,7 @@ function drawTemplate() {
 
 const beltColors = {
   Branca: '#ffffff', Cinza: '#808080', Amarela: '#e6b800',
-  Laranja: '#ed7818', Verde: '#21843b', Azul: '#071b68',
+  Laranja: '#ed7818', Verde: '#21843b', Azul: '#3b82f6',
   Roxa: '#70359a', Marrom: '#75452c', Preta: '#111111',
 };
 const degreeNames = ['', 'PRIMEIRO', 'SEGUNDO', 'TERCEIRO', 'QUARTO'];
